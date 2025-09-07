@@ -1,0 +1,19 @@
+.scanner-section {
+  padding: 40px 20px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.scanner-box {
+  max-width: 250px;
+  margin: 0 auto;
+  border: 2px dashed #00f2fe;
+  border-radius: 12px;
+  padding: 10px;
+}
+
+.scan-result {
+  margin-top: 20px;
+  font-size: 1.1rem;
+  color: #333;
+}
